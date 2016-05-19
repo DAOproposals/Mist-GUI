@@ -4,5 +4,5 @@ Periodically simulate executeProposal() calls to notify user if proposal would p
 
 # External Resources
 - **Original consider.it page**: https://dao.consider.it/mist-gui-with-live-graphs-of-proposalsvotes
-- **Forum.daohub.org**: 
+- **Forum.daohub.org**: https://forum.daohub.org/t/mist-gui-with-live-graphs-of-proposals-votes/2714
 - **Google document**: https://docs.google.com/document/d/1ewNmIbjLsLXFUjlZ0GfonqxN7KU2zAZdybY3I-yYV8g/edit?usp=sharing
